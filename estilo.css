@@ -1,0 +1,57 @@
+.fundo {
+	background-image: url('imagens/fundo.png');
+}
+
+.fundoLink {
+	background-color: gray;
+	width: 900px;
+}
+
+a {
+	font-family: Arial; /*Tipo de fonte */
+	font-weight: bold; /*Deixa em negrito*/
+	text-decoration:none; /*esse none serve para tirar o sublinhado do link*/
+	font-size:15px; /*Tamanho da fonte*/
+	color: #4B0082; /*cor da fonte*/
+	padding: 20px 20px 20px 20px; /*Distancia da borda*/
+	display:inline-block;
+
+}
+
+.fundoParagrafo {
+	background-color: white;
+	font-family: Arial;
+	padding: 10px 10px 10px 10px ; /*Distancia da borda*/
+	width: 880px;
+}
+
+.texto {
+	font-size: 14px;
+}
+
+.titulo {
+	color: dimgray;
+}
+
+.texto2{
+	font-family: Arial;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	width: 880px;
+}
+
+.bordaimagem {
+	/*border-width: 5px;
+	border-style: solid;
+	border-color: dimgray;*/
+	border: 8px solid dimgray;
+}
+
+.formatocontato {
+	padding: 10px 10px 10px 0px;
+	font-size: 14px;
+}
+
+.negrito {
+	font-weight: bold;
+}
